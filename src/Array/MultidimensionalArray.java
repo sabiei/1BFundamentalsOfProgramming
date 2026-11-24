@@ -1,4 +1,4 @@
-package Array1;
+package Array;
 
 import java.util.Arrays; // kinukuha natin yung Arrays class para magamit yung deepToString
 
